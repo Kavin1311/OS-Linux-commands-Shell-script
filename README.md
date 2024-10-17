@@ -87,8 +87,9 @@ cat > file22
 
 cut -c1-3 file11
 ## OUTPUT
+![image-83](https://github.com/user-attachments/assets/a8caf96b-7d4b-4dfd-a58a-0dfc7f874574)
 
-![alt text](image-83.png)
+
 
 
 cut -d "|" -f 1 file22
@@ -119,13 +120,15 @@ grep Hello newfile
 
 grep hello newfile 
 ## OUTPUT
-![alt text](image-8.png)
+![image-8](https://github.com/user-attachments/assets/29d902e4-eb77-4676-a72e-b04ad6b3516d)
+
 
 
 
 grep -v hello newfile 
 ## OUTPUT
-![image-8](https://github.com/user-attachments/assets/f88825e9-264a-426f-bb5a-b1c646fc8cfe)
+![image-9](https://github.com/user-attachments/assets/bc596746-4ce0-42ad-9f0b-49d7ea4d4f48)
+
 
 
 
